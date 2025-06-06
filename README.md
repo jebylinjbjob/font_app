@@ -21,7 +21,7 @@
 
 1. 克隆專案：
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/jebylinjbjob/font_app.git
 cd font_app
 ```
 
